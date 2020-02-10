@@ -1,6 +1,5 @@
 clear; clc;
 
-addpath([pwd filesep 'NIfTI_20140122'])
 
 %% 1. Set Initial parameters
 bins = [32 64 128];
