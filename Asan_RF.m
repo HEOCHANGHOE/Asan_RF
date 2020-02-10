@@ -1,5 +1,7 @@
 clear; clc;
 
+addpath([pwd filesep 'NIfTI_20140122']);
+addpath([pwd filesep 'function']);
 
 %% 1. Set Initial parameters
 bins = [32 64 128];
